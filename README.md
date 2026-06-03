@@ -1,3 +1,3 @@
 # my-application
 
-sekinat.lab
+For more information, visit sekinat.lab.
