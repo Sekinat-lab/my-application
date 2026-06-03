@@ -1,3 +1,3 @@
 # my-application
 
-For more information, visit sekinat.lab.
+For more information about the project, visit https://sekinat.lab.
